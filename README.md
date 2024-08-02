@@ -1,16 +1,28 @@
-Audibook
+        Audibook
+
 Audiobook is a Website AudioBooks that was built completely using Html & css & javascript. 
 
 the main objective of this project is to build an audio player and handle all its features
 
-Features
+
+
+
+        Features
+
+
 Audio Player
-play the next and previous books
-Download Book
-jump to the end of the audio using the slider
-buy Book
-like book
-book details containing summary, rating, and tags.
+
+Play the next and previous books
+
+Jump to the end of the audio using the slider
+
+Download Book PDF
+
+Buy Book
+
+Like book
+
+Book details containing summary, rating, and tags.
 
 ![01](https://github.com/user-attachments/assets/25bba730-7ed4-4570-9129-9560461f0f26)
 ![02](https://github.com/user-attachments/assets/a9f6e3bc-7a5a-40ee-99b2-c96cffd79c97)
